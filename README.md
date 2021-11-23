@@ -23,5 +23,5 @@
 [website]: http://blog.uditagarwal.com/
 [instagram]: https://instagram.com/anomaly2104
 [facebook]: https://www.facebook.com/anomaly2104
-[youtube]: https://youtube.com/c/UditAgarwal21
+[youtube]: https://youtube.com/anomaly2104
 [linkedin]: https://www.linkedin.com/in/anomaly2104
