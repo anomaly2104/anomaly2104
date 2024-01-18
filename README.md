@@ -9,17 +9,16 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anomaly2104&repo=ticket-booking-low-level-system-design)](https://github.com/anomaly2104/ticket-booking-low-level-system-design)  |   https://www.youtube.com/watch?v=Xny0IdvJ-1M&list=PL564gOx0bCLpAL7yMJqOuK3_hBuLkyRhn |
 
 
-[![Udit's github stats](https://github-readme-stats.vercel.app/api?username=anomaly2104&show_icons=true)](https://github.com/anomaly2104/github-readme-stats)
-
-
  ## Connect with me:
 
+[<img align="left" alt="https://enginebogie.com/u/anomaly2104" width="22px" src="https://enginebogie.com/favicon.ico" />][enginEBogie]
 [<img align="left" alt="blog.uditagarwal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="anomaly2104 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="anomaly2104 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="anomaly2104 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="anomaly2104 | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+[enginEBogie]: https://enginebogie.com/u/anomaly2104
 [website]: http://blog.uditagarwal.com/
 [instagram]: https://instagram.com/anomaly2104
 [facebook]: https://www.facebook.com/anomaly2104
